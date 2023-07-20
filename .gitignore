@@ -1,0 +1,5 @@
+node_modules
+dist
+package-lock.
+.dev.env
+.env

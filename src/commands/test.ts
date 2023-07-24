@@ -20,4 +20,4 @@ const command: SlashCommand = {
     },
 };
 
-export default command;
+export { command };
